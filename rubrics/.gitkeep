@@ -1,0 +1,10 @@
+# Rubrics Directory
+
+Rubric files will be generated here after the professor completes the setup questionnaire.
+
+Expected files:
+- resume_rubric.md
+- cover_letter_rubric.md
+- email_rubric.md
+
+DO NOT manually create these files. They are auto-generated from the professor's setup answers.
